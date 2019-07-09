@@ -12,6 +12,7 @@
   "require": {
     "wpackagist-plugin/query-monitor":"^3.3.3",
     "holger1411/understrap":"^0.9.4",
-    "wpackagist-plugin/cyr2lat":"^4.2.1"
+    "wpackagist-plugin/cyr2lat":"^4.2.1",
+    "wpackagist-plugin/advanced-custom-fields":"5.8.1"
   }
 }
