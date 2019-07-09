@@ -1,0 +1,11 @@
+{
+  "repositories":[
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "wpackagist-plugin/query-monitor":"^3.3.3"
+  }
+}
