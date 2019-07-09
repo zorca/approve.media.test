@@ -3,9 +3,14 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/understrap/understrap"
     }
   ],
   "require": {
-    "wpackagist-plugin/query-monitor":"^3.3.3"
+    "wpackagist-plugin/query-monitor":"^3.3.3",
+    "holger1411/understrap":"^0.9.4"
   }
 }

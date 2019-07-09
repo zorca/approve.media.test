@@ -25,3 +25,4 @@ wp-cli.local.yml
 node_modules/
 web/content/themes/theme/dist/
 web/content/db.php
+web/content/themes/understrap/
