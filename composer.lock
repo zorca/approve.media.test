@@ -1982,6 +1982,26 @@
             "time": "2017-04-25T02:31:25+00:00"
         },
         {
+            "name": "wpackagist-plugin/cyr2lat",
+            "version": "4.2.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cyr2lat/",
+                "reference": "tags/4.2.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cyr2lat.4.2.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/cyr2lat/"
+        },
+        {
             "name": "wpackagist-plugin/query-monitor",
             "version": "3.3.6",
             "source": {
